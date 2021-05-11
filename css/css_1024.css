@@ -1,0 +1,57 @@
+@media (max-width: 1024px) {
+    .container {
+        Max-width:calc(100vw - 30px);
+    }
+    .header {
+        grid-template-columns: 25% 1fr;
+    }   
+    .info_site {
+        align-items: center;
+    }
+    .mail_top:before {
+        bottom:-5px;
+    }
+    .slide_block {
+        padding-left:120px;
+    }
+    .prev {
+        left:5%;
+    }
+    .next {
+        right:5%;
+    }
+    .menu_mobile_only  {
+        display:none;
+    }
+    .sell_lucky_hour img {
+        display:none;
+    }
+    
+    .call_back_fixed span {
+        opacity: 0;
+        
+    }
+    .call_back_fixed {
+        background-color:#c4615f00;
+    }
+    .call_back_fixed:before {
+        transform: rotate( 
+180deg
+ );
+ top: 10px;
+    }
+    .modal_form_fixed {
+        padding:70px 55px;
+        background-color:#C15B5A;
+        overflow: hidden;
+    }
+    .modal-dialog {
+        max-width:650px;
+    }
+    .book-form__tab-wrapper {
+        padding: 25px 30px;
+    }
+    .select:after {
+        right:-100px;
+    }
+}

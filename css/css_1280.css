@@ -1,0 +1,200 @@
+
+@media (max-width: 1280px) and (min-width:1281px) {
+html,body {
+    font-size: 17px;
+    line-height: 28px;
+
+}
+.container{
+    max-width: 960px;
+}
+.name_slider {
+    font-size: 46px;
+line-height: 52px;
+}
+.text_slider {
+    font-size: 46px;
+    line-height: 52px;  
+}
+.slide_block {
+    padding-left:240px;
+}
+.next {
+    right:11%;
+}
+.prev {
+    left:11%;
+}
+h1 {
+    margin-top:100px;
+    font-size: 36px;
+line-height: 36px;
+}
+h2 {
+    margin-bottom: 25px;
+    font-weight: 300;
+font-size: 23px;
+line-height: 32px;
+}
+p {
+    font-size: 17px;
+line-height: 28px;
+}
+.block_about_otel span {
+    font-size: 17px;
+line-height: 28px;
+}
+.container_lucky_hour {
+    max-width:960px;
+}
+.lucky_hour {
+    font-size: 32px;
+    line-height: 32px; 
+}
+.podpis_rassilka {
+    font-size: 20px;
+    line-height: 26px; 
+}
+.percent_hour {
+    font-size: 151px;
+line-height: 136px;
+}
+.lucky_hour_block:before {
+    transform: skewX( 
+        -38deg
+         );
+            left: -407px;   
+}
+.form-control {
+    padding:0;
+}
+.form-control::placeholder{
+    padding:15px 15px 10px 15px;
+    font-size: 15px;
+line-height: 24px;
+}
+.input_mail_lucky_hour {
+    margin-top:30px;
+}
+.lucky_hour_block {
+    margin-top:100px;
+}
+img.button_hotels_prev.slick-arrow {
+    width:44px;
+    height:44px;
+}
+img.button_hotels_next.slick-arrow {
+    width:44px;
+    height:44px;
+}
+.hotel_container {
+    margin-right:30px;
+    margin-left:0;
+}
+.info_block_footer {
+    padding-top:65px;
+}
+.call_back_footer h1 {
+    margin-top:65px;
+}
+.info_footer {
+    margin-bottom:30px;
+    font-size: 15px;
+line-height: 24px;
+}
+.email_footer:before {
+    width: 32px;
+    height: 32px;
+    left: -30px;
+    top: -7px;  
+}
+.number_footer:before {
+    width: 32px;
+    height: 32px;
+    left: -30px;
+    top: -7px;  
+}
+.link_footer  {
+    width:60%;
+}
+.number_footer {
+    font-size:18px;
+}
+.call_back_footer input {
+    padding:15px 15px 10px 15px;
+    width:100%;
+}
+.form-check-label {
+    width:80%;
+    padding-left: 20px;
+}
+footer {
+    padding-bottom:90px;
+}
+.head_about_hotel {
+    font-size: 21px;
+line-height: 28px;
+}
+.info_about_hotel {
+    font-size: 17px;
+line-height: 28px;
+margin-bottom:80px;
+}
+.sochi_zaselenie p {
+    font-size: 17px;
+line-height: 28px;
+}
+.pravila li {
+    font-size: 17px;
+line-height: 28px;
+}
+.img_block_room img{
+    width:100%;
+    border-radius:10px;
+}
+.name_hotel {
+    width:50%;
+    font-size: 21px;
+line-height: 28px;
+}
+.price_hotel {
+    font-size: 24px;
+    line-height: 20px;  
+}
+.left_rooms_block>.text_hotel {
+    font-size: 17px;
+    line-height: 28px; 
+}
+.pravila {
+    margin-top:80px;
+}
+.info_location {
+    width:960px;
+}
+.pravila li:before {
+    top: 10px;  
+}
+.for_kids_blocks h2 {
+    font-size: 21px;
+line-height: 28px;
+}
+.service_block h2 {
+    font-size: 21px;
+    line-height: 28px;  
+}
+.service_item_left li {
+    font-size: 17px;
+    line-height: 28px; 
+}
+.text_service_table {
+    font-size: 17px;
+line-height: 28px;
+}
+.custom_ol_spisok li {
+    color:#C15B5A;
+    font-size: 17px;
+}
+.room_item_right.pravila {
+    margin-top:0;
+}
+}
